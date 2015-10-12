@@ -1,0 +1,22 @@
+{
+  "name": "nativescript-screenshot",
+  "version": "0.0.1",
+  "description": "A plugin for iOS and Android that allows you to get NativeScript view as image.",
+  "main": "index.js",
+  "nativescript": {
+    "id": "org.nativescript.screenshot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enchev/nativescript-screenshot"
+  },
+  "keywords": [
+    "NativeScript",
+    "screenshot",
+    "image"
+  ],
+  "author": "Vladimir Enchev <vladimir.enchev@gmail.com> (https://github.com/enchev)",
+  "license": "Apache-2.0",
+  "bugs": "https://github.com/enchev/nativescript-screenshot/issues",
+  "homepage": "https://github.com/enchev/nativescript-screenshot"
+}
