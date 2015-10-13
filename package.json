@@ -1,6 +1,6 @@
 {
   "name": "nativescript-screenshot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for iOS and Android that allows you to get NativeScript view as image.",
   "main": "index.js",
   "nativescript": {
