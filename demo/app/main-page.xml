@@ -1,0 +1,7 @@
+<Page>
+   <ScrollView>
+     <StackLayout loaded="stackLoaded">
+       <Button text="Test" tap="buttonTap" />
+     </StackLayout>
+   </ScrollView>
+</Page>
