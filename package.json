@@ -4,6 +4,11 @@
   "description": "A plugin for iOS and Android that allows you to get NativeScript view as image.",
   "main": "index.js",
   "nativescript": {
+    "platforms": {
+      "ios": "1.0.0",
+      "android": "1.0.0"
+    },
+
     "id": "org.nativescript.screenshot"
   },
   "repository": {
